@@ -1,7 +1,0 @@
-openai
-mediapipe
-opencv-python
-google-generativeai
-flask
-requests
-gunicorn
